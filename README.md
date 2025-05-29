@@ -1,4 +1,2 @@
-# git-test
-i will test out git version control
+# git-testgit
 ## hi sagnik here
-heelllo hi
